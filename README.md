@@ -3,7 +3,7 @@
 
 ## [MacOS]双击解压rar压缩包
 
-需要`brew`安装`sevenzip`，或更改脚本中的7z路径
+需要`brew`安装`sevenzip`，或更改脚本中的7z路径，添加到快捷指令后保存到程序坞(即.app)然后单击rar压缩包`Cmd+I`，将默认打开设为unrar即可
 
 ![项目演示](./unrar.gif)
 
