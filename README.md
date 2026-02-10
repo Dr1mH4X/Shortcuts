@@ -5,5 +5,7 @@
 
 需要`brew`安装`sevenzip`，或更改脚本中的7z路径
 
-[iCloud🔗](https://www.icloud.com/shortcuts/037f14f162264963a356d2e521030863)
+![项目演示](./unrar.gif)
+
+[Download Via iCloud🔗](https://www.icloud.com/shortcuts/037f14f162264963a356d2e521030863)
 
