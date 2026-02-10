@@ -1,5 +1,5 @@
 # Shortcuts
-一些自用的MacOS快捷指令
+一些自用的MacOS/IOS快捷指令
 
 ## [MacOS]双击解压rar压缩包
 
